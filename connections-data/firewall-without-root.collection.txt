@@ -1,0 +1,16 @@
+# Groups
+
+## BSPTelephonyDevTool, EngineerMode, MmsService, YGPRS, Загрузкаврежиме Turbo, Набор функций SIM-карты, Память номеров/SMS/MMS, Телефон
+148.66.17.4:11080
+
+## Google
+216.118.244.58:10080
+
+## Google Services Framework, Google Резервное копирование, Аккаунты Google, Сервисы Google Play
+216.118.244.58:10080
+
+## Omacp, SMS/MMS
+216.118.244.58:10080
+
+## Play Market
+43.152.137.33:443
